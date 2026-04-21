@@ -19,7 +19,7 @@ The answer will be 32 768 addresses.
 By comparing the two we get to see 128BG is the cheaper and better deal
 
 1.5 How many 32 kilobyte memory banks are required to make 10MB of memory
-We would need to change 10 MB to bytes first 10 x 1042 = 10240 bytes
+We would need to change 10 MB to bytes first 10 x 1024 = 10240 bytes
 
 Now we divide 10 240 % 32 = (10240 % 32)
 Lets repeatedly divide (10240 % 32) by 2
@@ -27,5 +27,5 @@ Lets repeatedly divide (10240 % 32) by 2
 2560 % 8
 1280 % 4
 640 % 2
-320
+320 Banks. 
 

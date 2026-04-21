@@ -8,7 +8,7 @@ So our answer in Binary Tradition will be 1024 bytes.
 
 1.3 If memory in a computer is byte-addressable, meaning each address points to a single byte, how many addresses does 32 kilobytes of that memory have?
 By using direct proportion 
-23KB multiplied by 1024 bytes give us 32 768 bytes
+32KB multiplied by 1024 bytes give us 32 768 bytes
 From the relationship given in the question 1 byte = 1 address
 The answer will be 32 768 addresses.
 
